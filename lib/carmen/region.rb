@@ -8,11 +8,13 @@ module Carmen
 
     attr_reader :type
     attr_reader :code
+    attr_reader :timezone
     attr_reader :parent
 
     def initialize(data={}, parent=nil)
       @type = data['type']
       @code = data['code']
+      @timezone = data['timezone']
       @parent = parent
     end
 
@@ -47,7 +49,7 @@ module Carmen
     end
 
     def inspect
-      "<##{self.class} name=\"#{name}\" type=\"#{type}\">"
+      "<##{self.class} name=\"#{name}\" type=\"#{type}\" timezone=\"#{timezone}\">"
     end
 
     # Clears the subregion cache

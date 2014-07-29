@@ -1,115 +1,172 @@
 ---
 - code: AK
   type: state
+  timezone: AKST
 - code: AL
   type: state
+  timezone: EST
 - code: AR
   type: state
+  timezone: CST
 - code: AS
   type: outlying area
+  timezone: CST
 - code: AZ
   type: state
+  timezone: MST
 - code: CA
   type: state
+  timezone: PST
 - code: CO
   type: state
+  timezone: MST
 - code: CT
   type: state
+  timezone: EST
 - code: DC
   type: district
+  timezone: EST
 - code: DE
   type: state
+  timezone: EST
 - code: FL
   type: state
+  timezone: EST
 - code: GA
   type: state
+  timezone: EST
 - code: GU
   type: outlying area
+  timezone: ChST
 - code: HI
   type: state
+  timezone: HST
 - code: IA
   type: state
+  timezone: CST
 - code: ID
   type: state
+  timezone: MST
 - code: IL
   type: state
+  timezone: CST
 - code: IN
   type: state
+  timezone: EST
 - code: KS
   type: state
+  timezone: CST
 - code: KY
   type: state
+  timezone: EST
 - code: LA
   type: state
+  timezone: CST
 - code: MA
   type: state
+  timezone: EST
 - code: MD
   type: state
+  timezone: EST
 - code: ME
   type: state
+  timezone: EST
 - code: MI
   type: state
+  timezone: EST
 - code: MN
   type: state
+  timezone: CST
 - code: MO
   type: state
+  timezone: CST
 - code: MP
   type: outlying area
+  timezone: ChST
 - code: MS
   type: state
+  timezone: CST
 - code: MT
   type: state
+  timezone: MST
 - code: NC
   type: state
+  timezone: EST
 - code: ND
   type: state
+  timezone: CST
 - code: NE
   type: state
+  timezone: CST
 - code: NH
   type: state
+  timezone: EST
 - code: NJ
   type: state
+  timezone: EST
 - code: NM
   type: state
+  timezone: MST
 - code: NV
   type: state
+  timezone: MST
 - code: NY
   type: state
+  timezone: EST
 - code: OH
   type: state
+  timezone: EST
 - code: OK
   type: state
+  timezone: CST
 - code: OR
   type: state
+  timezone: PST
 - code: PA
   type: state
+  timezone: EST
 - code: PR
   type: outlying area
+  timezone: AST
 - code: RI
   type: state
+  timezone: EST
 - code: SC
   type: state
+  timezone: EST
 - code: SD
   type: state
+  timezone: CST
 - code: TN
   type: state
+  timezone: EST
 - code: TX
   type: state
+  timezone: EST
 - code: UM
   type: outlying area
+  timezone: PST
 - code: UT
   type: state
+  timezone: MST
 - code: VA
   type: state
+  timezone: EST
 - code: VI
   type: outlying area
+  timezone: AST
 - code: VT
   type: state
+  timezone: EST
 - code: WA
   type: state
+  timezone: PST
 - code: WI
   type: state
+  timezone: CST
 - code: WV
   type: state
+  timezone: EST
 - code: WY
   type: state
+  timezone: MST
